@@ -7,7 +7,7 @@ This activity will help to reinforce learning of the Module 2 concepts of:
 - Package Initialization
 
 ## Author
-[Your name]
+Sion Kim
 
 ## Additional Information
 [ Use this space to include additional information that may help in your learning. ]
