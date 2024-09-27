@@ -1,7 +1,7 @@
 """"
 Description: A class to represent Aircraft objects.
-Author: Sion Kim
-Date: 2024.09.19
+Author: Apurba Khan
+Date: 2024.09.27
 """
 
 

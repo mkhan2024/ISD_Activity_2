@@ -1,7 +1,7 @@
 """
 Description: Unit tests for the Rectangle class.
-Author: Sion Kim
-Date: 2024.09.18
+Author: Apurba Khan
+Date: 2024.09.27
 Usage: To execute all tests in the terminal execute 
 the following command:
     python -m unittest tests/shape/test_rectangle.py

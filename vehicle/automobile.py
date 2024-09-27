@@ -1,7 +1,7 @@
 """"
 Description: A class to represent Automobile objects.
-Author: Sion Kim
-Date: 2024.09.18
+Author: Apurba Khan
+Date: 2024.09.27
 """
 
 from vehicle.vehicle import Vehicle

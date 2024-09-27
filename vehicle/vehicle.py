@@ -1,7 +1,7 @@
 """"
 Description: A class to represent generic Vehicle objects.
-Author: Sion Kim
-Date: 2024.09.18
+Author: Apurba Khan
+Date: 2024.09.27
 """
 from abc import ABC, abstractmethod
 

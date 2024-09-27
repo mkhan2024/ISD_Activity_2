@@ -1,7 +1,7 @@
 """
 Description: Unit tests for the Automobile class.
-Author: Sion Kim
-Date: 2024.09.19
+Author: Apurba Khan
+Date: 2024.09.27
 Usage: To execute all tests in the terminal execute 
 the following command:
     python -m unittest tests/vehicle/test_automobile.py

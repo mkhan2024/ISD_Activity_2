@@ -1,7 +1,7 @@
 """"
 Description: A class to represent Triangle objects.
-Author: Sion Kim
-Date: 2024.09.18
+Author: Apurba Khan
+Date: 2024.09.27
 """
 import math
 from shape.shape import Shape
